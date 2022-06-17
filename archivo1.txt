@@ -2,3 +2,5 @@ archivo 1
 ING. DESARROLLO Y GESTION DE SOFTWARE
 UTSV
 19190511
+modificacion del archivo 1
+linea 6 del archivo 1

@@ -2,3 +2,5 @@ archivo 2
 linea 2
 TIC
 19190511
+modificacion del archivo 2
+los cambios deben reflejarse en github al hacer push
